@@ -52,33 +52,43 @@
 
 ## 🚀 Projects  
 
-### 🛠️ [Project Name 1](https://github.com/your-username/project-name)  
-- **Tech Stack**: Next.js, Node.js, Firebase  
-- 🌟 Description: A responsive and dynamic application with modern UI/UX.  
+### 🛠️ [Countries api](https://github.com/ramziadem/countriesfacts-quiz)  
+
+- **Github Repo** : [From Here](https://github.com/ramziadem/countriesfacts-quiz)
+- **App Wbesite** : [From Here](https://countriesfacts-quiz.onrender.com/)
+- **Tech Stack**: Next.js, Axios, React Hooks, Countries API, Fecth
+- 🌟 Description: A pretty and funny countries quiz game
 - 📦 Features:  
   - Integrated with RESTful APIs for seamless data exchange.  
-  - Authentication powered by Firebase.  
+  - Real time connected
+  - Sounds and Cursor effects for clicking and moving
+  - Fetch data using axios from this project : [Gibtub](https://github.com/ramziadem/country-data-api) [Online](https://country-data-api.onrender.com/countries)
 
-### 🧩 [Project Name 2](https://github.com/your-username/project-name)  
-- **Tech Stack**: React, MongoDB, Express.js  
-- 📊 Description: A full-stack application focused on data management and visualization.  
+### 🧩 [Countries API Data List](https://github.com/ramziadem/country-data-api)  
+- **Tech Stack**: Express.js, Cors, TypeScript, Nodemon
+- 📊 Description: An api backend to provide list of data in this format :
+
+  {
+    "name": "South Georgia",
+    "code": "GS",
+    "flag": "https://flagsapi.com/GS/shiny/64.png",
+    "languages": [
+      "English"
+    ],
+    "currency": "Saint Helena pound",
+    "capital": "King Edward Point",
+    "region": "Antarctic",
+    "area": 3903,
+    "dial_code": "+500"
+  },
+  
 - 🚀 Features:  
-  - Real-time updates and analytics dashboards.  
-  - Role-based access control.  
+  - All countries provide by this API
+  - Cors included for easy fetching
+  - Easy to setup and Fetch data using path Variables or Query
 
----
-
-## 📊 GitHub Stats  
-
-<p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" />  
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=radical" alt="GitHub Streak" />  
-</p>  
-
----
 
 ## 🤝 Connect With Me  
 
-- 📧 Email: [youremail@example.com](mailto:youremail@example.com)  
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
-- 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)  
+- 📧 Email: [contact@ramziadem.com](mailto:contact@ramziadem.com)    
+- 🌐 Portfolio: [https://ramziadem.com/](https://ramziadem.com/)  
