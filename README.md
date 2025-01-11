@@ -68,19 +68,19 @@
 - **Tech Stack**: Express.js, Cors, TypeScript, Nodemon
 - 📊 Description: An api backend to provide list of data in this format :
 
-  {
-    "name": "South Georgia",
-    "code": "GS",
-    "flag": "https://flagsapi.com/GS/shiny/64.png",
-    "languages": [
-      "English"
-    ],
-    "currency": "Saint Helena pound",
-    "capital": "King Edward Point",
-    "region": "Antarctic",
-    "area": 3903,
-    "dial_code": "+500"
-  },
+  {<br/>
+    "name": "South Georgia",<br/>
+    "code": "GS",<br/>
+    "flag": "https://flagsapi.com/GS/shiny/64.png",<br/>
+    "languages": [<br/>
+      "English"<br/>
+    ],<br/>
+    "currency": "Saint Helena pound",<br/>
+    "capital": "King Edward Point",<br/>
+    "region": "Antarctic",<br/>
+    "area": 3903,<br/>
+    "dial_code": "+500"<br/>
+  },<br/>
   
 - 🚀 Features:  
   - All countries provide by this API
