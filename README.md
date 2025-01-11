@@ -65,6 +65,9 @@
   - Fetch data using axios from this project : [Gibtub](https://github.com/ramziadem/country-data-api) [Online](https://country-data-api.onrender.com/countries)
 
 ### 🧩 [Countries API Data List](https://github.com/ramziadem/country-data-api)  
+
+- **Github Repo** : [From Here](https://github.com/ramziadem/country-data-api)
+- **App Wbesite** : [From Here](https://country-data-api.onrender.com/)
 - **Tech Stack**: Express.js, Cors, TypeScript, Nodemon
 - 📊 Description: An api backend to provide list of data in this format :
 
