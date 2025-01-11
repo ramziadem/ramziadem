@@ -1,46 +1,63 @@
-# Hi there, I'm [Your Name] 👋
+👨‍💻 About Me
+Hello! I'm a Software Engineer, Full-Stack Developer, and Marketing Specialist with over 5+ years of experience in building robust software solutions and implementing modern marketing strategies. With a Master's degree in Software Engineering and a Bachelor's degree in Computer Science, I combine technical expertise with creative problem-solving to deliver exceptional results.
 
-## 🌟 About Me
-- 🌍 I'm a web developer with expertise in **Next.js**, **React**, and **TypeScript**.
-- 🎯 Passionate about building interactive, user-friendly, and scalable web applications.
-- 📚 Currently learning **GraphQL** and **AI/ML integration for web apps**.
-- 🔭 Exploring opportunities to contribute to **open-source** projects.
+🚀 Technical Skills
+Frontend Development
+Frameworks & Libraries: Next.js, React.js
+Tools & Techniques: Responsive Design, State Management, Axios, REST APIs
+Backend Development
+Frameworks & Tools: Node.js, Express.js
+Databases: MySQL, PostgreSQL, MongoDB, Firebase
+Cloud & DevOps
+Platforms: Google Cloud Platform (GCP), Azure, AWS
+Containerization: Docker
+CI/CD Tools: GitHub Actions
+Programming Languages
+Proficient: JavaScript (ES6+), Python
+Additional Skills
+Web Scraping: BeautifulSoup, Puppeteer
+Authentication Systems: OAuth, JWT
+Linux Expertise: Ubuntu commands, Linux shell scripting
+Version Control: Git, GitHub
+Command Line Tools: CMD, Linux Commands
+📈 Marketing Expertise
+In addition to my technical skills, I specialize in modern marketing strategies to help businesses grow:
 
----
+SEO & SEM
+Social Media Marketing
+Data Analysis & Reporting
+Marketing Automation
+🌟 Notable Achievements
+✅ Successfully delivered full-stack projects across diverse industries.
+✅ Designed scalable REST APIs to handle millions of user requests.
+✅ Automated marketing workflows, resulting in increased ROI for clients.
+✅ Mentored junior developers to help them grow into skilled engineers.
 
-## 💻 Technologies & Tools
-![Next.js](https://img.shields.io/badge/-Next.js-black?logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+📚 Certifications & Degrees
+🎓 Master's Degree in Software Engineering
+🎓 Bachelor's Degree in Computer Science
 
----
+🛠️ Tools & Technologies
+Frontend	Backend	Cloud/DevOps	Databases
+React.js, Next.js	Node.js, Express.js	GCP, AWS, Azure	MySQL, PostgreSQL, MongoDB
+REST APIs, Axios	Python, JWT, OAuth	Docker, CI/CD	Firebase
+Git, GitHub	Web Scraping	Linux Commands	
+💻 Projects
+🌐 E-Commerce Platform
+A scalable, user-friendly e-commerce website using React.js and Node.js, integrated with MongoDB and Firebase for seamless data storage and user authentication.
 
-## 🚀 Projects
-### 🧩 [Country Facts Quiz](https://github.com/your-username/countries-facts-quiz)
-An interactive quiz app built using **Next.js** and **React** to learn about country facts.  
-Features:
-- API integration for country data.
-- Dynamic and responsive UI with modern styling.
+🛠️ API Development
+Built robust REST APIs with Node.js and Express.js to manage real-time data exchange for a logistics platform.
 
-### 🔗 [Other Project Title](https://github.com/your-username/other-project)
-Brief description of another project.
+📊 Marketing Automation Tool
+Developed a Python-based marketing automation solution that improved lead generation and optimized campaign performance.
 
----
+📬 Let's Connect
+Feel free to reach out! I'm always excited to collaborate on new opportunities:
+📧 Email: YourEmail@example.com
+🌐 Portfolio: YourWebsite.com
+🔗 LinkedIn: YourLinkedIn
+🐙 GitHub: YourGitHub
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
-## 🤝 Connect With Me
-- 📧 Email: [youremail@example.com](mailto:youremail@example.com)
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)
+"Continuous learning and innovation drive me. Let's create impactful solutions together." ✨
 
